@@ -1,0 +1,19 @@
+{
+  "name": "user_authen_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "jest": "^24.8.0",
+    "jwt-simple": "^0.5.6",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0"
+  }
+}
