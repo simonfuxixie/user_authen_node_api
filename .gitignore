@@ -11,7 +11,7 @@
 /documentation
 
 #config
-/config 
+/config/config.js  
 
 # misc
 .env
