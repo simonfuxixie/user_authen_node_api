@@ -17,7 +17,7 @@
     "fs": "0.0.1-security",
     "jest": "^24.8.0",
     "jwt-simple": "^0.5.6",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "monkii": "^2.0.0-2",
     "nodemailer": "^6.3.0",
