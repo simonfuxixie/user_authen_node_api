@@ -20,7 +20,7 @@
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
     "monkii": "^2.0.0-2",
-    "nodemailer": "^6.3.0",
+    "nodemailer": "^6.4.16",
     "path": "^0.12.7"
   }
 }
